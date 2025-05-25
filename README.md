@@ -1,6 +1,8 @@
 # GoFast
 An opinionated web framework to create server-driven web apps in Go.
 
+> ⚠️ Caution: work in progress and may have breaking changes until official release.
+
 ## Philosophy
 Do you **loathe** dealing with client side state?
 
@@ -17,14 +19,3 @@ $
 $ 
 $ 
 ```
-
-### Project structure
-- server.go
-- public/
-    - css/
-        - Normalize.css
-        - Styles.css
-    - javascript/
-    - assets/
-    - robots.txt
-- views/
