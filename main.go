@@ -1,0 +1,4 @@
+package gofast
+
+func main() {
+}
